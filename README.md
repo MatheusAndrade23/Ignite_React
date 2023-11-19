@@ -1,7 +1,7 @@
 <h1 align="center">ReactJS - Ignite</h1>
 
 <div align="center">
-  <h3>Repositório que apresenta a certificação/projetos da trilha de React do Ignite da Rocketseat.</h3>
+  <h3>Repositório que apresenta a certificação/projetos desenvolvidos durante aulas/desafios do curso de React do Ignite da Rocketseat.</h3>
 </div>
 
 ---
