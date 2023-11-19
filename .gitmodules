@@ -1,0 +1,15 @@
+[submodule "Ignite_Shop"]
+	path = Ignite_Shop
+	url = https://github.com/MatheusAndrade23/Ignite_Shop
+[submodule "To_Do_APP-Ignite"]
+	path = To_Do_APP-Ignite
+	url = https://github.com/MatheusAndrade23/To_Do_APP-Ignite
+[submodule "Maps-Ui"]
+	path = Maps-Ui
+	url = https://github.com/MatheusAndrade23/Maps-Ui
+[submodule "Coffee_Delivery"]
+	path = Coffee_Delivery
+	url = https://github.com/MatheusAndrade23/Coffee_Delivery
+[submodule "GitHub_Blog-Ignite"]
+	path = GitHub_Blog-Ignite
+	url = https://github.com/MatheusAndrade23/GitHub_Blog-Ignite
